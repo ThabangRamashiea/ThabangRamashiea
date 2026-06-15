@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ThabangRamashiea
-- 👀 I’m interested in football and programming.
-- 🌱 I’m currently learning Computer Science and Mathematics at the University of Cape Town 
+- 👀 A newbie in this industry who is very keen on learning...
+- 💂‍♂️I understand knowledge to go a long way and should be shared as much as possible
+- 👨‍🎓 Currently studying towards a BSc Computer Science at Nelson Mandela University.
 - 💞️ I’m looking to collaborate on programming projects, 
 - 😄 Pronouns: Him/ His
 - ⚡ Fun fact: I'm just a normal guy who found himself in a world full of genuises
